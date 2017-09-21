@@ -1,0 +1,26 @@
+#Tank control
+W       -       Forward
+S       -       Backward
+A       -       Turn left
+D       -       Turn right
+ENTER   -       Shoot
+ESC     -       Quit
+
+#Camera control
+U       -       Orbital camera up
+O       -       Orbital camera down
+I       -       Orbital camera forward
+K       -       Orbital camera backward
+J       -       Orbital camera left
+L       -       Orbital camera right
+
+UP      -       Overlooking camera forward
+DOWN    -       Overlooking camera backward
+LEFT    -       Overlooking camera left
+RIGHT   -       Overlooking camera right
+
+#Scene control
+1       -       Change current camera to Orbital camera
+2       -       Change current camera to Overlooking camera
+P       -       Change the lighting mode
+F       -       Change the fog mode
